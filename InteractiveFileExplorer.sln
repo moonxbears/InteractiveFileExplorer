@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32714.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InteractiveFileExplorer", "InteractiveFileExplorer.pyproj", "{9020C56C-AE74-4C8E-816A-9A252CFA5AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9020C56C-AE74-4C8E-816A-9A252CFA5AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9020C56C-AE74-4C8E-816A-9A252CFA5AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB9D659-8962-4C4A-9631-C48B62FE7BA4}
+	EndGlobalSection
+EndGlobal
